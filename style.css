@@ -1,0 +1,29 @@
+.registration_block{
+    line-height: 50px;
+    text-align: center;
+    padding-top: 250px;
+    
+}
+
+.in_regist{
+    border: groove rgba(101, 109, 110, 0.842);
+    max-width: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 6em */
+}
+
+h1{
+    color: rgba(0, 0, 0, 0.842);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.submit{
+    color: rgba(0, 0, 0, 0.842);
+    background-color: rgba(101, 109, 110, 0.842);
+    border: groove rgba(101, 109, 110, 0.842);
+}
+
+body{
+    background-color: rgba(101, 109, 110, 0.842);
+}
